@@ -1,0 +1,22 @@
+.App {
+    margin: 0;
+}
+
+.Navbar {
+    background: #1e2333;
+}
+
+.IntroSection {
+    padding: 1rem 5rem;
+    color: white;
+    background: URL('/images/react-logo.svg') #1e2333;
+    min-height: 50vh;
+}
+
+.CardList {
+    padding: 1rem 0;
+}
+
+.Card {
+    border:0;
+}
